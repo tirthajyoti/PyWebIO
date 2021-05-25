@@ -1,6 +1,6 @@
 # How to deploy PyWebIo apps on [Google App Engine](https://cloud.google.com/appengine)
 
-### NOTE about cost: This deployment option is NOT FREE. It will incur small cost (on the order of 0.05-0.1/hour) continuously in your Google Cloud Billing account.
+### NOTE about cost: This deployment option is NOT FREE. It will incur small cost (on the order of $0.05-0.1/hour) continuously in your Google Cloud Billing account.
 
 ## Step 1
 Go to [App Engine homepage](https://cloud.google.com/appengine) and click on **"Go to Console"**.
