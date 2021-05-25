@@ -27,7 +27,7 @@ Go to [App Engine homepage](https://cloud.google.com/appengine) and click on **"
 
 - Copy/create/git clone all the three files of this Github directory (`app.yaml`, `main.py`, and `requirements.txt`) into this `pywebio` directory. You can even fire up an Cloud Shell Editor and copy-paste the contents of the file just like a text editing task.
 
-## Step 4
+## Step 4 (optional)
 - You can do a local test of your app by,
 
   - `virtualenv env`
