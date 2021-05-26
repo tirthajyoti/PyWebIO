@@ -13,7 +13,8 @@ Go to [App Engine homepage](https://cloud.google.com/appengine) and click on **"
 
 - Choose the very first option **"App Engine Quickstart"**.
 
-- Look for the **"Python"** link under the second group **"Flexible environment"** and click on it (the first group is **"Standard environment"**).
+- Look for the **"Python"** link under the second group **["Flexible environment"](
+https://cloud.google.com/appengine/docs/flexible#:~:text=App%20Engine%20allows%20developers%20to,while%20also%20balancing%20the%20load.)** and click on it (the first group is **"Standard environment"**).
 
 ## Step 3
 
